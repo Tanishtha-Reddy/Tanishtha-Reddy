@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 What I'm Working On  
-- 📂 Weekly updates to my **[DSA in Java Repo]([https://github.com/YourUsername/DSA-in-Java](https://github.com/Tanishtha-Reddy/Java-DSA-))**  
+- 📂 Weekly updates to my **[DSA in Java Repo](https://github.com/Tanishtha-Reddy/Java-DSA-))**  
 - 🤖 Developing an **[AI Email Summarizer](https://github.com/Tanishtha-Reddy/AI-Email-Summarizer)** (updated weekly)  
 
 ---
