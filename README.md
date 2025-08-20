@@ -34,7 +34,7 @@
 ---
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://www.linkedin.com/in/tanishtha-reddy/)  
+[[LinkedIn](https://www.linkedin.com/in/tanishtha-reddy/)]
 📧 Email: reddytanishtha@email.com  
 
 ---
