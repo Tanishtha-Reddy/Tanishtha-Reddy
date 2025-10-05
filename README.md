@@ -10,7 +10,9 @@
 ---
 
 ## 🚀 What I'm Working On  
-- 🤖 Developing an **[AI Feedback Analyzer](https://github.com/Tanishtha-Reddy/AI-Feedback-Analyzer)** (updated weekly)  
+- 🤖 Developing an **[AI Feedback Analyzer](https://github.com/Tanishtha-Reddy/AI-Feedback-Analyzer)** (updated weekly)
+-  Documenting my DSA in Java practice in **[Java DSA](https://github.com/Tanishtha-Reddy/JavaDSA)** (updated weekly)  
+
 
 ---
 
