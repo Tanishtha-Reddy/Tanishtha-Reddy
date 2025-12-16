@@ -2,15 +2,13 @@
 
 ## 🌱 About Me  
 🎓 3rd Year Computer Science Student, majoring in **AI & Machine Learning**  
-💻 Currently learning **Java + Data Structures & Algorithms**  
-🌐 Exploring **Full Stack Development** (HTML, CSS, JavaScript, React, Django)  
+💻 Currently learning **Java + Data Structures & Algorithms**    
 🐍 Comfortable coding in **Python**  
 🤝 Interested in contributing to **Open Source Projects**  
 
 ---
 
 ## 🚀 What I'm Working On  
-- 🤖 Developing an **[AI Feedback Analyzer](https://github.com/Tanishtha-Reddy/AI-Feedback-Analyzer)** (updated weekly)
 -  Documenting my DSA in Java practice in **[Java DSA](https://github.com/Tanishtha-Reddy/JavaDSA)** (updated weekly)  
 
 
