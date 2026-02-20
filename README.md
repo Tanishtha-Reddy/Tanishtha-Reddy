@@ -1,16 +1,16 @@
 ## Hi! I'm K. Sai Tanishtha Reddy!
 
-## 🌱 About Me  
-🎓 3rd Year Computer Science Student, majoring in **AI & Machine Learning**  
-💻 Currently learning **Java + Data Structures & Algorithms**    
-🐍 Comfortable coding in **Python**  
-🤝 Interested in contributing to **Open Source Projects**  
+##  About Me  
+ 3rd Year Computer Science Student, majoring in **AI & Machine Learning**  
+ Currently learning **Artificial Intelligence and Machine Learning**    
+ Comfortable coding in **Python**  
+ Interested in contributing to **Open Source Projects**  
 
 ---
 
-## 🚀 What I'm Working On  
--  Documenting my DSA in Java practice in **[Java DSA](https://github.com/Tanishtha-Reddy/JavaDSA)** (updated weekly)  
-
+##  What I'm Working On  
+-  Documenting my progress in ML with numerous projects implementing various regressions and neural networks.  
+- I am also currently working to improve my research skills with a special interest in LLMs, hallucinations, and their safety.
 
 ---
 
