@@ -2,14 +2,15 @@
 
 ##  About Me  
  Final Year Computer Science Student, majoring in **AI & Machine Learning**  
- Currently learning **Machine Learning & Deep Learning**    
+ Currently learning **Data science with Machine Learning & Deep Learning**    
  **BlueDot Impact Technical AI Safety** fellow -- July, 2026  
+ **Effective Thesis Accelerator** mentee -- October, 2026
 
 ---
 
 ##  What I'm Working On  
--  Documenting my progress in ML & DL with the intention of understanding AI Safety & Cybersecurity as a field.  
-- I am also currently working to improve my research skills in the same. 
+-  Documenting my progress in ML & DL with the intention of understanding AI and its safety & Data Science.
+-   I am also currently working to improve my research and analytical skills in the same. 
 ---
 
 ## 🛠️ Tech Stack  
